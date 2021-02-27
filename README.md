@@ -1,4 +1,4 @@
-# sentiment_analysis
+# Sentiment_analysis
 A data pipeline to scrape and analyze posts from social media for tracking feedback on a specific product/brand/company.
 
 Data Engineering project set up with Docker, APIs, Airflow, databases, and a BI tool.
